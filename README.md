@@ -18,4 +18,4 @@ $ cd ReduxDemo
 $ yarn  # Install project dependencies (or `npm install`)
 ```
 ## 参考资料
-![点击](https://segmentfault.com/a/1190000005356568)
+https://segmentfault.com/a/1190000005356568
